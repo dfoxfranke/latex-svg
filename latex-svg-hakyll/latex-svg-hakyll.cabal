@@ -36,4 +36,4 @@ library
     , latex-svg-image   ^>=0.2
     , latex-svg-pandoc  ^>=0.2
     , lrucache          ^>=1.2
-    , pandoc-types      ^>=1.17.6.1 || ^>=1.20
+    , pandoc-types      ^>=1.17.6.1 || ^>=1.20 || ^>=1.21
